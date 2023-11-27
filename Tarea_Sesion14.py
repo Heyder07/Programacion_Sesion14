@@ -7,7 +7,7 @@ Created on Sun Nov 26 20:50:02 2023
 
 def operacion(a,b): #Push inicial
     if a > b:
-        oper = a + b
+        oper = a * b
         print(f'El resultado de la operación es {oper}')
     else:
         oper = a - b
