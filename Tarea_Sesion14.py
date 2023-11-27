@@ -13,4 +13,4 @@ def operacion(a,b): #Push inicial
         oper = a - b
         print(f'El resultado de la operación es {oper}')
 
-operacion(30,20)
+operacion(300,20)
